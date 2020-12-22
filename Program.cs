@@ -9,6 +9,7 @@ namespace SE_302_Project
     {
         static void Main(string[] args)
         {
+            //Deneme
             // This part is just to see that this code is wworking or not
             Syllabus s = new Syllabus("http://dm.ieu.edu.tr/tr/syllabus/type/read/id/CE+223");
             s.writenode();
