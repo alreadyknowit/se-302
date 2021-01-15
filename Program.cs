@@ -7,6 +7,8 @@ namespace SE_302_Project
 {
     class Program
     {
+
+        //Deneme
         static void Main(string[] args)
         {
             //Deneme
